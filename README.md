@@ -12,4 +12,7 @@ Also things like the amount of damage taken from each hit with your level of def
 
 Will also be appending a menu with restart, options and many different functions to align with the RPG.
 
-But still was a entertaining project to work on. 
+This was an entertaining project to work on.
+
+
+Feel free to leave any feedback or pointers.
